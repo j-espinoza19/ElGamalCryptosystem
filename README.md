@@ -13,8 +13,11 @@ Reset and Exit Options: Reset all input fields or exit the application easily.
 
 ## REQUERIMENTS
 Python 3.x
+
 tkinter (included with standard Python installation)
+
 random module (included with standard Python installation)
+
 PyInstaller (for creating an executable)
 
 ## USING
