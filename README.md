@@ -28,7 +28,7 @@ random module (included with standard Python installation)
 PyInstaller (for creating an executable)
 
 ## INSTALLATION
-1. Clone the repository: git clone https://github.com/j-espinoza19/elgamal-cryptosystem.git cd elgamal-cryptosystem
+1. Clone the repository: git clone [https://github.com/j-espinoza19/elgamal-cryptosystem.git](https://github.com/j-espinoza19/ElGamalCryptosystem) cd elgamal-cryptosystem
 2. Run the Application: python elgamal_gui.py
 
 ## USING
